@@ -1,0 +1,295 @@
+{
+ "upstream": {
+  "platform": "thingiverse",
+  "id": 2813896,
+  "url": "https://www.thingiverse.com/thing:2813896",
+  "name": "Linear Ball Bearing Stepper Side v2",
+  "author": "3DPRINTINGWORLD",
+  "license": "CC-BY-4.0",
+  "added": "2018-03-05T23:41:26+00:00",
+  "retrieved": "2026-10-20"
+ },
+ "print_files": [
+  {
+   "path": "print-files/BS-V1-NUT-1.stl",
+   "bytes": 2355384,
+   "sha256": "294771531426c039c6a1d4b4899a9ec1914e19b4cae57fc439c8f92de996d7b8",
+   "thingiverse_file_id": 4703798,
+   "triangles": 47106
+  },
+  {
+   "path": "print-files/BS-V1-NUT-1_2.stl",
+   "bytes": 2341184,
+   "sha256": "9eae766636dd301b5b1ee6bfd18402e34fe7f3a57e863a40ed626b9fe29d0025",
+   "thingiverse_file_id": 4724219,
+   "triangles": 46822
+  },
+  {
+   "path": "print-files/BS-V1-SCREW-1-QUAD.stl",
+   "bytes": 3628984,
+   "sha256": "25854ec877ae053c0eccd76fcde0629f738f79d875229af297c3f9dd317d4300",
+   "thingiverse_file_id": 4724149,
+   "triangles": 72578
+  },
+  {
+   "path": "print-files/BS-V1-SCREW-1_2-DBL.stl",
+   "bytes": 3548784,
+   "sha256": "f5fa6aad1505104ec868244c7824698c0c440a69c025cf9c002dd8aa476ed2fe",
+   "thingiverse_file_id": 4724197,
+   "triangles": 70974
+  },
+  {
+   "path": "print-files/BS-V2-CARRIAGE.stl",
+   "bytes": 4385184,
+   "sha256": "339fd6e32b415e0ce8822db5e25463c72cff9247281579a5e8abc8a31a989e76",
+   "thingiverse_file_id": 4703874,
+   "triangles": 87702
+  },
+  {
+   "path": "print-files/BS-V2-CARRIAGE_CAP-MIRROR.stl",
+   "bytes": 2313884,
+   "sha256": "84d45fd12702fe3d69ba783c315747c24132889e4d82d074fb5f3a608b3b5461",
+   "thingiverse_file_id": 4703873,
+   "triangles": 46276
+  },
+  {
+   "path": "print-files/BS-V2-CARRIAGE_CAP.stl",
+   "bytes": 2313884,
+   "sha256": "14ec4dc029317ffb99c6d452e4527f57244a830fef3b2e8f1cb4c2ade322221e",
+   "thingiverse_file_id": 4703872,
+   "triangles": 46276
+  },
+  {
+   "path": "print-files/BS-V2-RAIL.stl",
+   "bytes": 2154384,
+   "sha256": "8aff6fcab14d5c3da1a3c79e0fe2285386810f8e5ecc9f7e2c0cb68f683a18d0",
+   "thingiverse_file_id": 4703805,
+   "triangles": 43086
+  },
+  {
+   "path": "print-files/DT-V3-BEARING_CAP.stl",
+   "bytes": 392284,
+   "sha256": "eeecb23fa95bd8545abc82cc0511a697a29e4b1b455aa8b25bacdb3f93c6f26b",
+   "thingiverse_file_id": 4703911,
+   "triangles": 7844
+  },
+  {
+   "path": "print-files/DT-V3-BEARING_FLANGE.stl",
+   "bytes": 419584,
+   "sha256": "90b240281251c44b0104164bb838009208874ab106d2015a15805d6d7ffffcf4",
+   "thingiverse_file_id": 4703912,
+   "triangles": 8390
+  },
+  {
+   "path": "print-files/DT-V3-END_CAP.stl",
+   "bytes": 182084,
+   "sha256": "3376cd01cc41736596f77277195ba27679fcaaa241b14d6f4bb1eece6e3812dc",
+   "thingiverse_file_id": 4703910,
+   "triangles": 3640
+  }
+ ],
+ "files": [
+  {
+   "path": "source/upstream/4703790_BS-V2-CARRIAGE_CAP-MIRROR.stl",
+   "bytes": 2313884,
+   "sha256": "28b96aa1eab20d324fa1aaa1adf4b21015413c891b82a0feb7d81912e005b6ab",
+   "thingiverse_file_id": 4703790,
+   "upstream_name": "BS-V2-CARRIAGE_CAP-MIRROR.stl",
+   "date": "2018-03-05 22:33:58"
+  },
+  {
+   "path": "source/upstream/4703791_BS-V2-CARRIAGE_CAP.stl",
+   "bytes": 2313884,
+   "sha256": "f621405299b01e2d6ec9b150ed9cb6536ba312c43b678d9ea205d6a8dfb5bca6",
+   "thingiverse_file_id": 4703791,
+   "upstream_name": "BS-V2-CARRIAGE_CAP.stl",
+   "date": "2018-03-05 22:33:58"
+  },
+  {
+   "path": "source/upstream/4703798_BS-V1-NUT-1.stl",
+   "bytes": 2355384,
+   "sha256": "294771531426c039c6a1d4b4899a9ec1914e19b4cae57fc439c8f92de996d7b8",
+   "thingiverse_file_id": 4703798,
+   "upstream_name": "BS-V1-NUT-1.stl",
+   "date": "2018-03-05 22:34:39"
+  },
+  {
+   "path": "source/upstream/4703799_BS-V2-CARRIAGE.stl",
+   "bytes": 4381384,
+   "sha256": "e5a10a7b7c266a6be6f189067c3597274fc2802ce7e05f94020f685f9767bde1",
+   "thingiverse_file_id": 4703799,
+   "upstream_name": "BS-V2-CARRIAGE.stl",
+   "date": "2018-03-05 22:34:46"
+  },
+  {
+   "path": "source/upstream/4703805_BS-V2-RAIL.stl",
+   "bytes": 2154384,
+   "sha256": "8aff6fcab14d5c3da1a3c79e0fe2285386810f8e5ecc9f7e2c0cb68f683a18d0",
+   "thingiverse_file_id": 4703805,
+   "upstream_name": "BS-V2-RAIL.stl",
+   "date": "2018-03-05 22:37:13"
+  },
+  {
+   "path": "source/upstream/4703872_BS-V2-CARRIAGE_CAP.stl",
+   "bytes": 2313884,
+   "sha256": "14ec4dc029317ffb99c6d452e4527f57244a830fef3b2e8f1cb4c2ade322221e",
+   "thingiverse_file_id": 4703872,
+   "upstream_name": "BS-V2-CARRIAGE_CAP.stl",
+   "date": "2018-03-05 23:11:48"
+  },
+  {
+   "path": "source/upstream/4703873_BS-V2-CARRIAGE_CAP-MIRROR.stl",
+   "bytes": 2313884,
+   "sha256": "84d45fd12702fe3d69ba783c315747c24132889e4d82d074fb5f3a608b3b5461",
+   "thingiverse_file_id": 4703873,
+   "upstream_name": "BS-V2-CARRIAGE_CAP-MIRROR.stl",
+   "date": "2018-03-05 23:11:48"
+  },
+  {
+   "path": "source/upstream/4703874_BS-V2-CARRIAGE.stl",
+   "bytes": 4385184,
+   "sha256": "339fd6e32b415e0ce8822db5e25463c72cff9247281579a5e8abc8a31a989e76",
+   "thingiverse_file_id": 4703874,
+   "upstream_name": "BS-V2-CARRIAGE.stl",
+   "date": "2018-03-05 23:12:07"
+  },
+  {
+   "path": "source/upstream/4703910_DT-V3-END_CAP.stl",
+   "bytes": 182084,
+   "sha256": "3376cd01cc41736596f77277195ba27679fcaaa241b14d6f4bb1eece6e3812dc",
+   "thingiverse_file_id": 4703910,
+   "upstream_name": "DT-V3-END_CAP.stl",
+   "date": "2018-03-05 23:28:10"
+  },
+  {
+   "path": "source/upstream/4703911_DT-V3-BEARING_CAP.stl",
+   "bytes": 392284,
+   "sha256": "eeecb23fa95bd8545abc82cc0511a697a29e4b1b455aa8b25bacdb3f93c6f26b",
+   "thingiverse_file_id": 4703911,
+   "upstream_name": "DT-V3-BEARING_CAP.stl",
+   "date": "2018-03-05 23:28:12"
+  },
+  {
+   "path": "source/upstream/4703912_DT-V3-BEARING_FLANGE.stl",
+   "bytes": 419584,
+   "sha256": "90b240281251c44b0104164bb838009208874ab106d2015a15805d6d7ffffcf4",
+   "thingiverse_file_id": 4703912,
+   "upstream_name": "DT-V3-BEARING_FLANGE.stl",
+   "date": "2018-03-05 23:28:12"
+  },
+  {
+   "path": "source/upstream/4724149_BS-V1-SCREW-1-QUAD.stl",
+   "bytes": 3628984,
+   "sha256": "25854ec877ae053c0eccd76fcde0629f738f79d875229af297c3f9dd317d4300",
+   "thingiverse_file_id": 4724149,
+   "upstream_name": "BS-V1-SCREW-1-QUAD.stl",
+   "date": "2018-03-12 20:29:33"
+  },
+  {
+   "path": "source/upstream/4724197_BS-V1-SCREW-1_2-DBL.stl",
+   "bytes": 3548784,
+   "sha256": "f5fa6aad1505104ec868244c7824698c0c440a69c025cf9c002dd8aa476ed2fe",
+   "thingiverse_file_id": 4724197,
+   "upstream_name": "BS-V1-SCREW-1_2-DBL.stl",
+   "date": "2018-03-12 20:39:57"
+  },
+  {
+   "path": "source/upstream/4724219_BS-V1-NUT-1_2.stl",
+   "bytes": 2341184,
+   "sha256": "9eae766636dd301b5b1ee6bfd18402e34fe7f3a57e863a40ed626b9fe29d0025",
+   "thingiverse_file_id": 4724219,
+   "upstream_name": "BS-V1-NUT-1_2.stl",
+   "date": "2018-03-12 20:48:35"
+  },
+  {
+   "path": "source/upstream/images/IMG_7960.JPG",
+   "bytes": 523666,
+   "sha256": "b1c39508805f404814037f332d09b4191c474de3517d5c41400f30c13a49055d",
+   "thingiverse_image_id": 7751754
+  },
+  {
+   "path": "source/upstream/images/IMG_7959.JPG",
+   "bytes": 1486950,
+   "sha256": "91f2764d52cefe347c588328514c4173b54bb686d3a2e0c23b38b657007d2fcb",
+   "thingiverse_image_id": 7751749
+  },
+  {
+   "path": "source/upstream/images/IMG_7961.JPG",
+   "bytes": 1505004,
+   "sha256": "9113f70a3bfc837f200b1b0b9167341c5434a9f15941a11dcd84f6aac0e06995",
+   "thingiverse_image_id": 7751753
+  },
+  {
+   "path": "source/upstream/images/IMG_7963.JPG",
+   "bytes": 1588970,
+   "sha256": "5e95f1ef210171ec5ecf145906fe904bc52eb1af231bbee56493fbb16b795cef",
+   "thingiverse_image_id": 7751751
+  },
+  {
+   "path": "source/upstream/images/fd4f218f93168235e0e2fc0a6d53013b.png",
+   "bytes": 491519,
+   "sha256": "0ca8183ef562d16312027cf37b5ad9e870c448f2ac1011bfc062bd9210d3e7f8",
+   "thingiverse_image_id": 7751894
+  },
+  {
+   "path": "source/upstream/images/fc79aa7be63a0f739bf278e467f03a53.png",
+   "bytes": 405971,
+   "sha256": "cb9823116e0d13f460e282c14b57a701cb3b2dc4e4f7996e2903021afb84ce74",
+   "thingiverse_image_id": 7751892
+  },
+  {
+   "path": "source/upstream/images/bb69b409a47a7493ee843bc57a06b6df.png",
+   "bytes": 406279,
+   "sha256": "ce2c470199a826d70945d065de7be505e6c49d6abd098d68ae6eaf4040836206",
+   "thingiverse_image_id": 7751893
+  },
+  {
+   "path": "source/upstream/images/7eddcb1e75cd424855b5d3cada763b5f.png",
+   "bytes": 382211,
+   "sha256": "f49801f170dc601ef6733c07b2d008f2157718805dd713de5747e306a4ffc1ee",
+   "thingiverse_image_id": 7751780
+  },
+  {
+   "path": "source/upstream/images/f5790041cac6689166ce791756fab6bf.png",
+   "bytes": 324217,
+   "sha256": "8a3ba3b9fba7c47608e3cd320c8f27e2e963255f7b220806b5b43c6dc6947433",
+   "thingiverse_image_id": 7751962
+  },
+  {
+   "path": "source/upstream/images/86ed6450e4bb26c193aa891bc44c7ca6.png",
+   "bytes": 310547,
+   "sha256": "67a1ce7a314eae46a9bf790121b3c447cd03044111c9532e8b0d5006118e57c1",
+   "thingiverse_image_id": 7751961
+  },
+  {
+   "path": "source/upstream/images/a1be0f932977acde7568e8e3e2db6e08.png",
+   "bytes": 420035,
+   "sha256": "83c6c1803ec166ca93eb674d7635d7d9d66a31f3f3bf33c8c058554db5c5bca3",
+   "thingiverse_image_id": 7751964
+  },
+  {
+   "path": "source/upstream/images/0a723f840fd063da267f98753610b76e.png",
+   "bytes": 351079,
+   "sha256": "6cb68632907e4fef5b72cd13ff2e0aa363271187405ea82f4bc3e3788d470a33",
+   "thingiverse_image_id": 7751768
+  },
+  {
+   "path": "source/upstream/images/f06b2038f9c67025909ecb905079a0a7.png",
+   "bytes": 93728,
+   "sha256": "e4cee83b874d19e7217d5ce6de13274b0ec67d9305146af4ddc415c86cd4a3c2",
+   "thingiverse_image_id": 7792963
+  },
+  {
+   "path": "source/upstream/images/679c549c6efe19c602c5bcb0a57939a1.png",
+   "bytes": 92242,
+   "sha256": "b7d5ef555fd67cdb93adcd63ed82330573c73fe07fa77c5bfa257ff0f3750472",
+   "thingiverse_image_id": 7793082
+  },
+  {
+   "path": "source/upstream/images/732539f022d1e3466db7a56c45306b19.png",
+   "bytes": 351181,
+   "sha256": "28009f69d8629c0af9bcd02b0c7066358d19e8d5f417accc43c895ddb0370239",
+   "thingiverse_image_id": 7793120
+  }
+ ]
+}
