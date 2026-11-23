@@ -92,6 +92,7 @@ Original design: Linear Ball Bearing Stepper Slide v2 by 3DPRINTINGWORLD (John M
 
 ## Bill of Material and build guide (PDF)
 
+- **Bill of Material (web page):** [open in the browser](https://toolknox.github.io/hawkridge-stepper-linear-actuator-28byj48/bill-of-material.html) - click straight through to each part.
 - **Bill of Material:** [`docs/28BYJ-48 Stepper Linear Actuator with Printed Ball Screw - Bill of Material.pdf`](docs/28BYJ-48%20Stepper%20Linear%20Actuator%20with%20Printed%20Ball%20Screw%20-%20Bill%20of%20Material.pdf) - every purchased part with quantity, notes and a shop link per row.
 - **Build Guide:** [`docs/28BYJ-48 Stepper Linear Actuator with Printed Ball Screw - Build Guide.pdf`](docs/28BYJ-48%20Stepper%20Linear%20Actuator%20with%20Printed%20Ball%20Screw%20-%20Build%20Guide.pdf) - the guide above as a printable PDF.
 
